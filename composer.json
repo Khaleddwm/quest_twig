@@ -1,0 +1,13 @@
+{
+    "name": "khaled/quest_twig",
+    "description": "quest twig",
+    "authors": [
+        {
+            "name": "Khaled Benharrat",
+            "email": "benk.devweb@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
